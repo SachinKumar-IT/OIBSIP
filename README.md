@@ -1,6 +1,6 @@
-# OASIS INFOBYTE Data Science Internship
+#  Data Science Mini Projects
 
-This repository contains three Data Science and Machine Learning projects completed as part of the **Oasis Infobyte Internship Program**.
+This repository contains three Data Science and Machine Learning projects.
 
 The projects demonstrate practical applications of Python, data analysis, data visualization, machine learning algorithms, and model evaluation.
 
