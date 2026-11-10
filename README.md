@@ -124,7 +124,3 @@ Through these projects, I gained practical experience in:
 **Sachin Kumar**
 
 GitHub: [SachinKumar-IT](https://github.com/SachinKumar-IT)
-
----
-
-*Completed as part of the Oasis Infobyte Data Science Internship Program.*
